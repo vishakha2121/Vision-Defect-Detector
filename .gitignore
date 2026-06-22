@@ -208,17 +208,7 @@ dist/
 *.ipr
 .idea_modules/
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
 
-# Vim
-*.swp
-*.swo
-*~
-
-# Atom
-.atom/
 
 
 
