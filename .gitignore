@@ -220,15 +220,7 @@ dist/
 # Atom
 .atom/
 
-# ============================================
-# OS
-# ============================================
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-*.lnk
+
 
 
 
