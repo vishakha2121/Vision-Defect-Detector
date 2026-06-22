@@ -246,22 +246,7 @@ Thumbs.db
 *.pid
 *.lock
 
-# ============================================
-# Project Specific
-# ============================================
-# Database
-database.db
-database.sqlite
-*.db
-*.sqlite
-*.sqlite3
 
-# Uploaded files
-backend/uploads/
-backend/uploads/images/
-backend/uploads/results/
-uploads/
-media/
 
 
 
