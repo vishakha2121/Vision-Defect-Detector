@@ -181,18 +181,7 @@ dist
 .cache/
 public
 
-# Storybook build output
-storybook-static
 
-# rollup.js build output
-dist/
-
-# ============================================
-# IDE / Editor
-# ============================================
-# Visual Studio Code
-.vscode/
-*.code-workspace
 
 
 
