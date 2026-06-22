@@ -320,20 +320,5 @@ models/custom/
 *.rar
 *.7z
 
-# Media
-*.mp4
-*.avi
-*.mov
-*.mkv
-*.wmv
-*.flv
-*.webm
-
-# Large files
-*.pkl
-*.joblib
-*.npy
-*.npz
-
 
 
