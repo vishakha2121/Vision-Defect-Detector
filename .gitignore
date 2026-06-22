@@ -348,17 +348,3 @@ models/custom/
 *.tar
 *.zip
 
-# ============================================
-# Secrets and Security
-# ============================================
-*.pem
-*.key
-*.crt
-*.csr
-*.p12
-*.pfx
-secrets/
-credentials/
-*.secret
-*.token
-
