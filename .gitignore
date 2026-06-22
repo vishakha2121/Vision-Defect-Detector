@@ -279,18 +279,7 @@ logs/
 *.log
 backend/logs/
 
-# Backend specific
-backend/.env
-backend/venv/
-backend/__pycache__/
 
-# Frontend specific
-frontend/dist/
-frontend/build/
-frontend/.env.local
-frontend/.env.development.local
-frontend/.env.test.local
-frontend/.env.production.local
 
 
 
