@@ -263,21 +263,7 @@ backend/uploads/results/
 uploads/
 media/
 
-# Model cache
-backend/models_cache/
-models_cache/
-*.pt
-*.pth
-*.h5
-*.onnx
-*.tflite
-*.pb
-*.safetensors
 
-# Logs
-logs/
-*.log
-backend/logs/
 
 
 
