@@ -240,11 +240,7 @@ $RECYCLE.BIN/
 ehthumbs.db
 Thumbs.db
 
-# Linux
-*~
-.directory
-*.pid
-*.lock
+
 
 
 
