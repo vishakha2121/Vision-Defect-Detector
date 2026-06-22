@@ -230,15 +230,7 @@ Desktop.ini
 $RECYCLE.BIN/
 *.lnk
 
-# macOS
-.DS_Store
-.AppleDouble
-.LSOverride
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+
 
 
 
