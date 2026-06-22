@@ -154,3 +154,5 @@ cp .env.example .env
 npm run dev
 
 **📌 Project Status:** ✅ Active Development | 🚀 Production Ready | 📅 Last Updated: June 2026
+
+🔥 **Want to contribute?** Fork this repo, make changes, and submit a pull request! We welcome all contributions. 🤝
