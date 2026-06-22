@@ -64,6 +64,10 @@ This system provides:
 
 ## 🏗️ Architecture
 
+echo " " >> README.md
+echo "## 📅 Last Updated: $(Get-Date)" >> README.md
+
+
 ## 🛠️ Tech Stack
 
 ### Backend
