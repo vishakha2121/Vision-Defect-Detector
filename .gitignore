@@ -194,19 +194,7 @@ dist/
 .vscode/
 *.code-workspace
 
-# Visual Studio
-*.sln
-*.suo
-*.user
-*.userosscache
-*.vs
 
-# IntelliJ IDEA
-.idea/
-*.iml
-*.iws
-*.ipr
-.idea_modules/
 
 
 
