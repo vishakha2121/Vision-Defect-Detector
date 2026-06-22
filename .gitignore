@@ -292,17 +292,7 @@ frontend/.env.development.local
 frontend/.env.test.local
 frontend/.env.production.local
 
-# Docker
-*.pid
-docker-compose.override.yml
 
-# Compression models
-models/compressed/
-*.pruned.pt
-*.quantized.pt
-
-# Custom models
-models/custom/
 
 
 
