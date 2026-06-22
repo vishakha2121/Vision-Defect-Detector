@@ -304,21 +304,7 @@ models/compressed/
 # Custom models
 models/custom/
 
-# ============================================
-# Miscellaneous
-# ============================================
-# Backup files
-*.bak
-*.backup
-*.tmp
-*.temp
 
-# Archives
-*.zip
-*.tar
-*.tar.gz
-*.rar
-*.7z
 
 
 
